@@ -68,4 +68,35 @@ header ul li a {
     color: #ffffff;
     font-size: 4em;
     line-height: 1.5em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.content .textBox h2 span {
+    font-size: 2em;
+}
+
+.content .textBox p {
+    color: #ffffff;
+}
+
+.content .textBox a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    color: #111111;
+    background-color: #ffffff;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.content .imgBox {
+    width: 600px;
+}
+
+.content .imgBox .pepsi {
+    max-width: 190px;
 }
